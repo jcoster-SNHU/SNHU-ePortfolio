@@ -3,29 +3,21 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+Introduction:
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+This is my ePortfolio showcasing a collection of code artifacts that I developed during my time in the Southern New Hampshire University (SNHU) Computer Science Program. These projects cover a wide range of coding languages and application types including mobile development, algorithm and data structure concepts, and full stack web development. My ePortfolio demonstrates my ability to design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
 
-More specifically, the created site:
+Professional Self-Assessment:
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+I started at SNHU in March of 2023 with the goal to complete my degree in computer science. I have worked in the computer science field since 2017 after completing a coding bootcamp and wanted to elevate my development skills and obtain more comprehensive experience in a variety of coding languages and practices. I mostly develop using the MERN/MEAN stack (Mongo, Express, React/Angular, Node) and this degree program has helped me expand my knowledge in languages such as Python, Java, C++, Android mobile development, and OpenGL. I know that after completing this degree I will be more marketable to potential employers to obtain more senior level software engineering positions. This program included courses like CS310 Collaboration and Team Projects that gave me valuable time working on group development projects and contributing to shared Bitbucket libraries and practicing Git branching and version control. In CS320 - Software Testing, Automation, and Quality Assurance, I was able to build and utilize custom unit tests and explain why they are relevant to modern computer science practices. I believe that courses like CS250 - Software Development Lifecycle were the most beneficial to help myself develop as a more job-ready developer. I was able to take the role of different members of an agile scrum development team, and learn how to write valuable user stories, test cases, and sprint reviews. I have stepped into more project management roles in my career, and it is where I want to focus my search for my next job, and this course allowed me to practice these skills in real world applicable situations. Throughout my time at SNHU, I have enhanced my ability to write professional-grade, well commented and documented code that other developers can read and understand my thought process and intentions. I also have grown my skills in time management, writing code documentation, and large development planning, because companies don't just expect their programmers to be able to build functional code, but be able to work in fast paced team environments while meeting ever changing deadlines and project scope.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
 
-To get started with creating a site, simply:
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
 
-----
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
