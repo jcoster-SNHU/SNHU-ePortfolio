@@ -1,11 +1,7 @@
 title: Home
 layout: home
 
-Introduction:
 
-This is my ePortfolio showcasing a collection of code artifacts that I developed during my time in the Southern New Hampshire University (SNHU) Computer Science Program. These projects cover a wide range of coding languages and application types including mobile development, algorithm and data structure concepts, and full stack web development. My ePortfolio demonstrates my ability to design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
-
-Professional Self-Assessment:
 
 
 **Introduction:
