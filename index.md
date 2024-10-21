@@ -29,6 +29,15 @@ Code review is the process where developers take time to reflect on a project to
  
  Original Code Files: 
 
+ Enhanced Code Files:
+
+ Narrative: 
+
+ This artifact is my final project from CS360 Mobile Architecture and Development which is a weight tracking application where users enter an initial goal weight and then their progress is tracked daily. I selected this item for my ePortfolio because it was the first time I had developed a mobile application, and it showcased my flexibility to build code projects across a wide spectrum of languages. In my initial build I did not have very complex functionality in the Android application, and the app was only able to add a new goal weight and add the daily weight. I updated the daily weight entry page to have the goal weight stated at the top of the page, and gave the ability to edit the goal weight, save today’s weight, and enter in a description of what you ate for the day. I intend to add more to this bottom section to let the user describe their workout or link it to other workout applications like Strava. I also added a new progress tracking page that has a progress bar that fills up and updates daily as you enter in new weights with a percentage tracking based off your starting weight and current weight. I plan on adding a new bar line graph to show your progress, but this still needs adjusting so I did not include it in this submission. 
+This enhanced artifact meets the course outcome “Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.” I created more robust and efficient code that deliver value and accomplish industry-specific goals by adding new modules to the daily weight tracking view that fall in line with common health tracking applications. The ability to add more information to your daily weight update gives value to the end user by giving them the ability to have more details on their health journey and form trends based on food and workout info. I also used innovative coding techniques and skills to add new elements in the Java code files and have it reflect accurately as intended on the XML view in app, especially when building the progress tracking bar. It also meets the course outcome “Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.” I used well thought out introductions to that file’s functionality in each header and used industry standard code comment techniques throughout the build.
+This was the most challenging artifact for me as I found mobile development so different than what I am used to for web development especially when working on layouts and connections for buttons and databases. This is something I have never had to work with in my computer science career outside of this class, so I am curious to continue building on this project and learning more about more advanced mobile development techniques.
+
+
  
 
 
